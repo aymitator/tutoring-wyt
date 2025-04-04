@@ -1,5 +1,5 @@
 
-#DOGS GET TRANSLATED
+#HUMANS GET TRANSLATED TO DOG TALK
 
 import sys
 import time
