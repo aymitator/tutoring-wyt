@@ -31,8 +31,6 @@ for i in arenglish:
         writeln('good')
     elif 'die' in szsz:
         writeln('long-good')
-    elif 'unon' in szsz:
-        writeln('right-on')
     slee(6)
 
 zit()
