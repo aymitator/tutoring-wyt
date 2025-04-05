@@ -31,8 +31,4 @@ You, Corey, watch a great show un' take tons uh notes
 szstr = cin('Did you do what you wanted today?')
 if szstr.upper() =='Y':
     zit()
-    
-
-writeln('''
-You, Corey, go to bed und shut it
-''')
+zit()
