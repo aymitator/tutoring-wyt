@@ -59,16 +59,4 @@ You, Corey, get taken to Seattle und you realize it's Ortland, but t'en you're s
 szstr = cin('Did you go to where you wanted to go today?')
 if szstr.upper() == 'Y':
     zit()
-
-writeln('''
-You, Corey, get sent to H., J., R.
-''')
-
-szstr = cin('Did you go to where you wanted to go today?')
-if szstr.upper() =='Y':
-    zit()
-    
-
-writeln('''
-You, Corey, go to bed und shut it
-''')
+zit()
