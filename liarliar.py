@@ -25,7 +25,14 @@ for i in arenglish:
         writeln('being das bottle-neck')
     elif 'tres' in szsz:
         writeln('being looted')
-
+    elif 'hurt' in szsz:
+        writeln('aid')
+    elif 'bad' in szsz:
+        writeln('good')
+    elif 'die' in szsz:
+        writeln('long-good')
+    elif 'unon' in szsz:
+        writeln('right-on')
     slee(6)
 
 zit()
